@@ -1,4 +1,4 @@
-This project has been created by Sumit Shingari for learning purpose.
+This project has been created by Sumit Shingari for learning purpose. ( Project name : One to many mapping without join table )
 
 Basic Outline
 #####################################################################
