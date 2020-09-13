@@ -8,7 +8,7 @@ This project demostarte how we can provide third party authentication, freeing u
 
 Here I have used developer okta account, created an application to get issuer, client id and secret.
 
-Further I have also created an admin group ( workds as role ) and also a custom scope to test authentication.
+Further I have also created an admin group ( works as role ) and also a custom scope to test authentication.
 
 This is the basic project making use of okta.
 
